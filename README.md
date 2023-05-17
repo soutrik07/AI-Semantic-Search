@@ -14,3 +14,6 @@ It even includes multi language support using OpenAI translation, which makes se
 1. OpenAI API (for text embeddings and translation)
 
 2. Pinecone API (for storing the vector database having the embeddings)
+
+<h2>How it works?</h2>
+The project uses the wiki_qa (https://huggingface.co/datasets/wiki_qa/viewer/default/train?row=0) dataset out of which 15000 entries have been used.
