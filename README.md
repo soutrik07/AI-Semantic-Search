@@ -6,6 +6,6 @@ Want to have a search engine that understands you the best? AI semantic search e
 It even includes multi language support using OpenAI translation, which makes searches possible in any language.
 <h2>Technology used</h2>
 <h3>Backend</h3>
-1. OpenAI API (for text embeddings and translation)
+OpenAI API (for text embeddings and translation)
 
-2. Pinecone API (for storing the vector database having the embeddings)
+Pinecone API (for storing the vector database having the embeddings)
