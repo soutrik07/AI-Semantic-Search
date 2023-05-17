@@ -8,4 +8,4 @@ It even includes multi language support using OpenAI translation, which makes se
 <h3>Backend</h3>
 OpenAI API (for text embeddings and translation)
 
-Pinecone API (for storing the vector database having the embeddings)
+2. Pinecone API (for storing the vector database having the embeddings)
