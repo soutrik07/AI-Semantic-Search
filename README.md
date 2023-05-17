@@ -7,7 +7,7 @@ It even includes multi language support using OpenAI translation, which makes se
 <h2>Technology used</h2>
 <h3>Frontend</h3>
 
-1. Streamlit
+1. Streamlit (an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science)
 
 <h3>Backend</h3>
 
